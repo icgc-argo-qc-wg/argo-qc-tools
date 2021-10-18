@@ -1,3 +1,6 @@
+**NOTE**: this repository is archived to support workflow reproducibility. Active development
+continues at: https://github.com/icgc-argo-workflows/argo-qc-tools
+
 # Collection of ARGO QC Tools in WFPM Packages
 
 ## QC packages and underlying software tools
